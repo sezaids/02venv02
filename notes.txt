@@ -1,0 +1,70 @@
+-----Notes-----
+
+our earth is based on 6D
+robots works on dimensions
+neural networks?
+There are (360*360 = *129600*) dimensions in the world.
+
+
+arr5 = np.array(["abccs",223453,3], dtype="U")
+    i - integer
+    b - boolean
+    u - unsigned integer
+    f - float
+    c - complex float
+    m - timedelta
+    M - datetime
+    O - object
+    S - string
+    U - unicode string
+    V - fixed chunk of memory for other type (void)
+
+
+git config -- global user.name "username"
+git config -- global email "username"
+
+
+# we can not use constructor for "type casting"
+
+
+We can check below by using charts:)
+    Prediction
+    Probability
+    Scaleability
+    regression
+
+dataset is made in pandas library > after claculation > using matlo.. > then tells % Probability accuracy
+    ML 85% Probability accuracy / Prediction
+    95% Probability accuracy / Prediction
+
+Python + Ardieno
+
+
+
+
+-----Lectures-----
+
+"numpy is most important library/package in python"
+    numpy has 80% .cpp code and 20% .py code
+Metrix is numerical python
+    Vector
+    Scaler
+    Matrices
+    N-dimensional
+
+file handling
+    data
+    analyse
+    scraping
+
+Ruby n Rails
+
+# Must watch numpy
+
+python -m notebook
+
+
+# 16-04-25
+create folder: "02 Python Numpy"
+Create a new virtual "pro"
+    create word.ipynb
